@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leoni\\Desktop\\200401110 - \u00D6dev 6\\SimpleProjectManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B538130C-4FCC-4868-A4E2-A6F94F84D172}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\leoni\\desktop\\200401110 - \u00F6dev 6\\simpleprojectmanager\\simpleprojectmanager.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B538130C-4FCC-4868-A4E2-A6F94F84D172}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Updater.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\Desktop\\200401110 - \u00D6dev 6\\SimpleProjectManager\\SimpleProjectManager.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\DatabaseUpdate\\Updater.cs",
+              "ToolTip": "C:\\Users\\leoni\\Desktop\\200401110 - \u00D6dev 6\\SimpleProjectManager\\SimpleProjectManager.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\DatabaseUpdate\\Updater.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAcwJ0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:41:25.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

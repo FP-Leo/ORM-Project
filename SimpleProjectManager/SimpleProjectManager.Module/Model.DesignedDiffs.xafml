@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="SimpleProjectManager">
+  <BOModel>
+    <Class Name="SimpleProjectManager.Module.BusinessObjects.Customer" ObjectCaptionFormat="{0:FullName}" />
+    <Class Name="SimpleProjectManager.Module.BusinessObjects.User" ObjectCaptionFormat="{0:FullName}" />
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="23.1.6.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="Message_ListView">
+      <Columns>
+        <ColumnInfo Id="Attachment" SortIndex="-1" SortOrder="None" Index="-1" />
+        <ColumnInfo Id="ReceiverId" Index="-1" SortIndex="-1" SortOrder="None" />
+        <ColumnInfo Id="SenderId" Index="-1" SortIndex="-1" SortOrder="None" />
+        <ColumnInfo Id="SentTime" SortIndex="0" SortOrder="Descending" />
+        <ColumnInfo Id="Sender" Index="1" />
+        <ColumnInfo Id="Receiver" Index="2" SortIndex="-1" SortOrder="None" />
+        <ColumnInfo Id="Text" LookupEditorMode="Auto" Index="3" SortIndex="-1" SortOrder="None" />
+      </Columns>
+    </ListView>
+    <ListView Id="Page_ListView">
+      <Columns>
+        <ColumnInfo Id="Id" Index="0" />
+        <ColumnInfo Id="PageName" Index="1" />
+        <ColumnInfo Id="FollowersCount" Index="2" />
+        <ColumnInfo Id="PageDescription" Index="3" />
+      </Columns>
+    </ListView>
+    <ListView Id="Post_ListView">
+      <Columns>
+        <ColumnInfo Id="PosterId" Index="-1" />
+        <ColumnInfo Id="Poster" Index="0" />
+        <ColumnInfo Id="Content" Index="1" />
+        <ColumnInfo Id="Location" Index="2" />
+        <ColumnInfo Id="CreateTime" Index="3" />
+      </Columns>
+    </ListView>
+    <ListView Id="User_ListView">
+      <Columns>
+        <ColumnInfo Id="FullName" SortIndex="0" SortOrder="Ascending" Index="0" />
+        <ColumnInfo Id="FirstName" SortIndex="-1" SortOrder="None" Index="1" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>

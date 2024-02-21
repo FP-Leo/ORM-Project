@@ -1,0 +1,28 @@
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net6.0\SimpleProjectManager.Module.deps.json
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net6.0\SimpleProjectManager.Module.dll
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net6.0\SimpleProjectManager.Module.pdb
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.AssemblyInfo.cs
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.dll
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\refint\SimpleProjectManager.Module.dll
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.pdb
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\ref\SimpleProjectManager.Module.dll
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net6.0\SimpleProjectManager.Module.runtimeconfig.json
+C:\Users\Leo\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.genruntimeconfig.cache
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net6.0\SimpleProjectManager.Module.deps.json
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net6.0\SimpleProjectManager.Module.runtimeconfig.json
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net6.0\SimpleProjectManager.Module.dll
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net6.0\SimpleProjectManager.Module.pdb
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.csproj.AssemblyReference.cache
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.AssemblyInfoInputs.cache
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.AssemblyInfo.cs
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.csproj.CoreCompileInputs.cache
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.dll
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\refint\SimpleProjectManager.Module.dll
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.pdb
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\SimpleProjectManager.Module.genruntimeconfig.cache
+C:\Users\leoni\Desktop\200401110 - Ödev 6\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net6.0\ref\SimpleProjectManager.Module.dll
